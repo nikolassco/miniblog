@@ -1,5 +1,5 @@
-# PAGE LOGIN
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/nikolassco/pagelogin/blob/main/LICENSE) 
+# MINI BLOG
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/nikolassco/miniblog/blob/main/LICENSE) 
 
 # Sobre o projeto
 
